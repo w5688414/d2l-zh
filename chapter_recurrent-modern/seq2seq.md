@@ -76,8 +76,6 @@ from d2l import paddle as d2l
 import math
 import paddle
 from paddle import nn
-import warnings
-warnings.filterwarnings("ignore")
 ```
 
 ## 编码器
