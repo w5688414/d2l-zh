@@ -221,3 +221,7 @@ jupyter notebook
 :begin_tab:`tensorflow`
 [Discussions](https://discuss.d2l.ai/t/2084)
 :end_tab:
+
+:begin_tab:`tensorflow`
+[Discussions](https://discuss.d2l.ai/t/11597)
+:end_tab:
